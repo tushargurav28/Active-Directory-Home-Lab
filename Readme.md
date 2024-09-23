@@ -28,7 +28,7 @@ Workstation 2 (optional) - Windows 10 Enterprise (1 CPU, 2 GB RAM)
 
 
 
-# ![[Pasted image 20240923065902.png]]
+![](https://github.com/tushargurav28/Active-Directory-Home-lab/blob/main/Images/Pasted%20image%2020240923065902.png)
 
 
 ##### Other Notes
